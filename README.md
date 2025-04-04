@@ -1,6 +1,6 @@
 # 🛍️ Aplicación de Comercio
 
-![Diagrama de Clases](![Image](https://github.com/user-attachments/assets/e6ed7385-b87e-480a-a31b-8d6be9dd73ea))
+![Image](https://github.com/user-attachments/assets/e6ed7385-b87e-480a-a31b-8d6be9dd73ea)
 
 ## 👥 Desarrollado por:
 
