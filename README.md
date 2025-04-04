@@ -12,3 +12,5 @@
 
 👉 [Video de explicación](TU_LINK_AQUI)
 
+👉 [Colab del repositorio](https://colab.research.google.com/drive/1OFyD4_8KHmZgPAEF4FQJWVzImL67-WgB?usp=sharing)
+
